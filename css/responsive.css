@@ -1,0 +1,15 @@
+@media (max-width: 1200px) {
+    .cronometro {
+        width: 50% !important;
+    }  
+    .registro {
+        width: 50% !important;
+    }
+    .boxButtons {
+        gap: 2px !important;
+        flex-direction: column;
+    }
+    .geralBox {
+        width: 90% !important;
+    }
+}
